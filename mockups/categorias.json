@@ -1,0 +1,32 @@
+{
+  "categorias": [
+    {
+      "name": "Graphics",
+      "description": "Tarjetas graficas"
+    },
+    {
+      "name": "Processor",
+      "description": "Procesadores Intel y AMD"
+    },
+    {
+      "name": "Memory",
+      "description": "Memorias Ram "
+    },
+    {
+      "name": "Storage",
+      "description": "Discos solidos y M2"
+    },
+    {
+      "name": "Cooler",
+      "description": "Coolers Rgb"
+    },
+    {
+      "name": "Windows",
+      "description": "Sistema Operativo"
+    },
+    {
+      "name": "Power Supply",
+      "description": "Fuentes de Poder Reales Y Modernas"
+    }
+  ]
+}

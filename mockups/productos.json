@@ -1,0 +1,256 @@
+{
+  "productos": [
+    {
+      "name": "Tarjeta Grafica",
+      "url": "https://res.cloudinary.com/dhtyfvv9i/image/upload/v1669479800/rtc_yqt7sy.png",
+      "price": 400,
+      "description": "Tarjeta Grafica NVIDIA RTX 3060",
+      "categoriaId": 1
+    },
+    {
+      "name": "Procesaror Intel",
+      "url": "https://res.cloudinary.com/dhtyfvv9i/image/upload/v1669479910/corei7_czwwj2.png",
+      "price": 250,
+      "description": "Procesador Intel Core I7 3.1Ghz",
+      "categoriaId": 2
+    },
+    {
+      "name": "Memoria Ram",
+      "url": "https://res.cloudinary.com/dhtyfvv9i/image/upload/v1669479989/ram_dual-removebg-preview_xwg64p.png",
+      "price": 400,
+      "description": "Memoria Ram 16gb Dual Channel 3200Mhz",
+      "categoriaId": 3
+    },
+    {
+      "name": "Almacenamiento",
+      "url": "https://res.cloudinary.com/dhtyfvv9i/image/upload/v1669480167/nvm2-removebg-preview_yn2poq.png",
+      "price": 50,
+      "description": "SSD 1TB Samsung M2 PCIE Gen4.0 NVME",
+      "categoriaId": 4
+    },
+    {
+      "name": "Cooler",
+      "url": "https://res.cloudinary.com/dhtyfvv9i/image/upload/v1669480252/cooler_dn32b1.png",
+      "price": 30,
+      "description": "Cooler RGB Ultra Freshness",
+      "categoriaId": 5
+    },
+    {
+      "name": "Windows 11",
+      "url": "https://res.cloudinary.com/dhtyfvv9i/image/upload/v1669480404/Windows_11_Home-removebg-preview_xaguod.png",
+      "price": 10,
+      "description": "Windows 11 HOme Edition",
+      "categoriaId": 6
+    },
+    {
+      "name": "Fuente De Poder",
+      "url": "https://res.cloudinary.com/dhtyfvv9i/image/upload/v1669480349/fuente-removebg-preview_b30nsb.png",
+      "price": 50,
+      "description": "Fuente De Poder REAL 700W RGB",
+      "categoriaId": 7
+    },
+    {
+      "name": "Memoria Ram",
+      "url": "https://res.cloudinary.com/dhtyfvv9i/image/upload/v1669479989/ram_dual-removebg-preview_xwg64p.png",
+      "price": 400,
+      "description": "Memoria Ram 16gb Dual Channel 3200Mhz",
+      "categoriaId": 3
+    },
+    {
+      "name": "Memoria Ram",
+      "url": "https://res.cloudinary.com/dkj8o0ajx/image/upload/v1669830348/71Kkm5nIRKL._AC_SL1500__fssoax.jpg",
+      "price": 416,
+      "description": "Corsair Vengeance RGB PRO 16 GB (2x8 GB)",
+      "categoriaId": 3
+    },
+    {
+      "name": "Memoria Ram",
+      "url": "https://res.cloudinary.com/dkj8o0ajx/image/upload/v1669830637/memoria2_xrpmhx.jpg",
+      "price": 622,
+      "description": "Corsair Vengeance RGB Pro 32 GB - Blanco",
+      "categoriaId": 3
+    },
+    {
+      "name": "Memoria Ram",
+      "url": "https://res.cloudinary.com/dkj8o0ajx/image/upload/v1669830749/memoria3_qkvdt0.jpg",
+      "price": 325,
+      "description": "TEAMGROUP T-Force Delta RGB DDR4 16GB (2x8GB) 3600 MHz ",
+      "categoriaId": 3
+    },
+    {
+      "name": "Almacenamiento",
+      "url": "https://res.cloudinary.com/dhtyfvv9i/image/upload/v1669480167/nvm2-removebg-preview_yn2poq.png",
+      "price": 50,
+      "description": "SSD 1TB Samsung M2 PCIE Gen4.0 NVME",
+      "categoriaId": 4
+    },
+    {
+      "name": "Almacenamiento",
+      "url": "https://res.cloudinary.com/dkj8o0ajx/image/upload/v1669830945/alma1_baoydb.jpg",
+      "price": 659,
+      "description": "Samsung Electronics 980 PRO SSD PCIe Gen 4 NVMe M.2 de 1 TB",
+      "categoriaId": 4
+    },
+    {
+      "name": "Almacenamiento",
+      "url": "https://res.cloudinary.com/dkj8o0ajx/image/upload/v1669831045/alma2_dzq3kq.jpg",
+      "price": 475,
+      "description": "WD_BLACK N770 NVMe de 1 TB",
+      "categoriaId": 4
+    },
+    {
+      "name": "Almacenamiento",
+      "url": "https://res.cloudinary.com/dkj8o0ajx/image/upload/v1669831133/alma3_c2raqg.jpg",
+      "price": 50,
+      "description": "WD_BLACK  SSD N850 NVMe de 2 TB",
+      "categoriaId": 4
+    },
+    {
+      "name": "Cooler",
+      "url": "https://res.cloudinary.com/dhtyfvv9i/image/upload/v1669480252/cooler_dn32b1.png",
+      "price": 30,
+      "description": "Cooler RGB Ultra Freshness",
+      "categoriaId": 5
+    },
+    {
+      "name": "Cooler",
+      "url": "https://res.cloudinary.com/dkj8o0ajx/image/upload/v1669831323/cool1_tdr6p4.jpg",
+      "price": 659,
+      "description": "Enfriador líquido de CPU todo en uno ASUS TUF Gaming LC 240 ARGB",
+      "categoriaId": 5
+    },
+    {
+      "name": "Cooler",
+      "url": "https://res.cloudinary.com/dkj8o0ajx/image/upload/v1669831453/cool2_alliyl.jpg",
+      "price": 430,
+      "description": "Cooler Master Hyper 212 Black Edition RGB ventilador SF120R RGB",
+      "categoriaId": 5
+    },
+    {
+      "name": "Cooler",
+      "url": "https://res.cloudinary.com/dkj8o0ajx/image/upload/v1669831528/cool3_wloah7.jpg",
+      "price": 450,
+      "description": "Ventilador enfriador AMD Wraith Prism LED RGB 2700X AM4/AM2/AM3/AM3+ ",
+      "categoriaId": 5
+    },
+    {
+      "name": "Windows 11",
+      "url": "https://res.cloudinary.com/dhtyfvv9i/image/upload/v1669480404/Windows_11_Home-removebg-preview_xaguod.png",
+      "price": 10,
+      "description": "Windows 11 HOme Edition",
+      "categoriaId": 6
+    },
+    {
+      "name": "Windows 11",
+      "url": "https://res.cloudinary.com/dkj8o0ajx/image/upload/v1669831784/w1_xwn3iv.jpg",
+      "price": 430,
+      "description": "Windows 11 Pro Upgrade, from Windows 11 Home (Digital Download)",
+      "categoriaId": 6
+    },
+    {
+      "name": "Windows 11",
+      "url": "https://res.cloudinary.com/dkj8o0ajx/image/upload/v1669834250/w2_cfmgtb.jpg",
+      "price": 450,
+      "description": "Windows 11 Pro (USB)",
+      "categoriaId": 6
+    },
+    {
+      "name": "Windows 11",
+      "url": "https://res.cloudinary.com/dkj8o0ajx/image/upload/v1669834339/w3_neuw8k.jpg",
+      "price": 559,
+      "description": "Microsoft Windows 11 Home 64bit",
+      "categoriaId": 6
+    },
+    {
+      "name": "Fuente De Poder",
+      "url": "https://res.cloudinary.com/dhtyfvv9i/image/upload/v1669480349/fuente-removebg-preview_b30nsb.png",
+      "price": 50,
+      "description": "Fuente De Poder REAL 700W RGB",
+      "categoriaId": 7
+    },
+    {
+      "name": "Fuente De Poder",
+      "url": "https://res.cloudinary.com/dkj8o0ajx/image/upload/v1669834448/fue1_aulw08.jpg",
+      "price": 655,
+      "description": "EVGA 220-G5-0650-X1 Super Nova 650 G5, 80 Plus Gold 650W",
+      "categoriaId": 7
+    },
+    {
+      "name": "Fuente De Poder",
+      "url": "https://res.cloudinary.com/dkj8o0ajx/image/upload/v1669834525/fue2_rqlspf.jpg",
+      "price": 409,
+      "description": "Master Watt 650 Watt Semifanless Modular Power Supply",
+      "categoriaId": 7
+    },
+    {
+      "name": "Fuente De Poder",
+      "url": "https://res.cloudinary.com/dkj8o0ajx/image/upload/v1669834608/fue3_ss2k2o.jpg",
+      "price": 720,
+      "description": "ASUS ROG Thor 1000W Platinum II Fully Modular Power Supply ",
+      "categoriaId": 7
+    },
+    {
+      "name": "Tarjeta Grafica",
+      "url": "https://res.cloudinary.com/dpaz3kov1/image/upload/v1669612570/1tarjeta_y7ymhw.jpg",
+      "price": 900,
+      "description": "Tarjeta Grafica ASUS TUF Gaming GeForce GTX 1650",
+      "categoriaId": 1
+    },
+
+    {
+      "name": "Tarjeta Grafica",
+      "url": "https://res.cloudinary.com/dpaz3kov1/image/upload/v1669612712/2_my7vwz.jpg",
+      "price": 875,
+      "description": "Tarjeta Grafica MSI GeForce GTX 1050",
+      "categoriaId": 1
+    },
+
+    {
+      "name": "Tarjeta Grafica",
+      "url": "https://res.cloudinary.com/dpaz3kov1/image/upload/v1669612805/3_akezhc.jpg",
+      "price": 1400,
+      "description": "Tarjeta Grafica NVIDIA gabyte Rtx 3060 12gb Gddr6",
+      "categoriaId": 1
+    },
+
+    {
+      "name": "Tarjeta Grafica",
+      "url": "https://res.cloudinary.com/dpaz3kov1/image/upload/v1669612886/4_aiw0tm.jpg",
+      "price": 4700,
+      "description": "Tarjeta Grafica Asus Geforce Rtx 3080",
+      "categoriaId": 1
+    },
+
+    {
+      "name": "Procesaror Intel",
+      "url": "https://res.cloudinary.com/dpaz3kov1/image/upload/v1669613027/5_xvahxy.jpg",
+      "price": 665,
+      "description": "Procesador Intel Core I3",
+      "categoriaId": 2
+    },
+
+    {
+      "name": "Procesaror Intel",
+      "url": "https://res.cloudinary.com/dpaz3kov1/image/upload/v1669613104/6_cgspdj.jpg",
+      "price": 720,
+      "description": "Procesador Intel Core i5-10400F",
+      "categoriaId": 2
+    },
+
+    {
+      "name": "Procesaror Intel",
+      "url": "https://res.cloudinary.com/dpaz3kov1/image/upload/v1669613168/7_utiaoz.jpg",
+      "price": 1425,
+      "description": "Procesador Intel Core i7-10700",
+      "categoriaId": 2
+    },
+
+    {
+      "name": "Procesaror Intel",
+      "url": "https://res.cloudinary.com/dpaz3kov1/image/upload/v1669613231/8_szawy7.jpg",
+      "price": 2050,
+      "description": "Procesador Intel Core i9-10900",
+      "categoriaId": 2
+    }
+  ]
+}
